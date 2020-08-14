@@ -40,3 +40,4 @@ print("x = 0 or () returns for x:", x)      # ()
 print("y = 1 or () returns for y:", y)      # 1
 print("z = 0 or (1,2) returns for z:", z)   # (1,2)
 print("a = 1 or (1,2) returns for a:", a)   # 1
+
