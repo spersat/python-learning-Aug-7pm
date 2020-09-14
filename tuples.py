@@ -16,3 +16,6 @@ print(t[1:3]) # returns index 1 and 2
 print(t[:]) # returns everything
 print(t[3:]) # returns everything from index 3
 print("hello")
+
+s={""}
+
