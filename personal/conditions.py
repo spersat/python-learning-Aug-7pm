@@ -96,3 +96,5 @@ for i in range (1, nblignes):
     nbspace = nblignes - i
     nbarbre = i * 2 - 1
     print(' '*nbspace, '^'*nbarbre, ' '*nbspace)
+
+
